@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Windows 11/.gradle/caches/transforms-3/b08fa53768e416db3e9b70a4e67d6541/transformed/jetified-MyLoadingButton-v1.0.1/res/drawable-anydpi-v21/ic_progress_done.xml" value="0.131" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/drawable/button_bg.xml" value="0.195" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/drawable/edit_backaground.xml" value="0.1715" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/drawable/edit_bg_rounded.xml" value="0.195" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/drawable/ic_google.xml" value="0.195" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/drawable/ic_prime.xml" value="0.195" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/drawable/ic_star.xml" value="0.195" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/drawable/white_bg.xml" value="0.195" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/layout/fragment_prime.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/layout/home_list_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Seven/app/src/main/res/menu/home_bottom_nav.xml" value="0.33" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/drawable/category_backgound.xml" value="0.196" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/drawable/manu_backgound.xml" value="0.126" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/drawable/menu_prime_backgound.xml" value="0.126" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/drawable/search_bg.xml" value="0.196" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/activity_choose_category.xml" value="0.25" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/activity_home.xml" value="0.18" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/activity_login.xml" value="0.21" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/activity_search.xml" value="0.22" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/activity_settings.xml" value="0.21" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/category_item_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/explore_category_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/explore_video_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/fragment_explore.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/layout/home_list_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/Desktop/Aman Office/Seven/Seven/app/src/main/res/menu/home_bottom_nav.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

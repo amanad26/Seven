@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        android:checked="true"
+        android:color="@color/primaryDarkColor"/>
+
+
+    <item
+        android:id="@+id/nav_explore"
+        android:icon="@drawable/ic_explore"
+        android:title="Explore"
+        android:color="@color/primaryDarkColor"/>
+
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person"
+        android:title="Profile"
+        android:color="@color/primaryDarkColor"/>
+
+    <item
+        android:id="@+id/nav_prime"
+        android:icon="@drawable/prime_new"
+        android:title="Prime"
+        android:color="@color/goldenColor"/>
+
+
+</menu>
